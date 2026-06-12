@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-tren-de-tu-recuerdo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El tren de tu recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-tu-recuerdo/) |
+| **Get License** | [Obtain a Music License for El tren de tu recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-tu-recuerdo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I caught your eyes across the crowded room tonight
+> Your body moving slow under the neon light
+> You're pulling me so close without a single word
+> This is the sweetest melody I've ever heard
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
